@@ -271,6 +271,8 @@ a {
     transform: scale(1.03);
 }
 
+/* Модальне вікно */
+
 .backdrop {
     position: fixed;
     width: 100%;
